@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import './index.css';
 import { App } from './app/App.js';
 // Import the store here.
 import { store } from './app/store'
