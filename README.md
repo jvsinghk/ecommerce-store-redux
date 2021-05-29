@@ -40,9 +40,3 @@ As you will see, the file structure has been organized using the recommended fea
 - render the <Cart /> component using the current state data
 
 - dispatch actions to the store
-
-Let’s get started!
-
-If you get stuck during this project or would like to see an experienced developer work through it, click [“Get Unstuck”](https://youtu.be/z8vbKfVrBgs) to see a project walkthrough video.
-
-Note: the output terminal below the coding area is there to display syntax errors and can be used when debugging your code. Feel free to minimize it when not in use.
