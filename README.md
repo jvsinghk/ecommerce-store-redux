@@ -1,5 +1,5 @@
 # Codecademy Store
-In this project, you’ll build a program that mimics [Codecademy’s own online store](https://shop.codecademy.com/)! The application should display products from the Codecademy store and allow the user to add them to their cart. In the cart, the user can adjust the quantity of each item and the running total will be displayed at the bottom. Lastly, the user can choose the currency for the entire application.
+In this project, i’ll build a program that mimics [Codecademy’s own online store](https://shop.codecademy.com/)! The application should display products from the Codecademy store and allow the user to add them to their cart. In the cart, the user can adjust the quantity of each item and the running total will be displayed at the bottom. Lastly, the user can choose the currency for the entire application.
 
 ![An animated gif showing a demo of the Codecademy store's features](./shopping-cart-demo.gif)
 
